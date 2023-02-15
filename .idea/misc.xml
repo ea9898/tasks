@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/application/2.1.10/pom.xml" />
+        <option value="$PROJECT_DIR$/2.1.11/pom.xml" />
+        <option value="$PROJECT_DIR$/jm/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/jm/2.1.10/pom.xml" />
+        <option value="$PROJECT_DIR$/jm/2.1.11/pom.xml" />
+        <option value="$PROJECT_DIR$/jm/2.2.2/pom.xml" />
+        <option value="$PROJECT_DIR$/jm/2.2.8/pom.xml" />
+        <option value="$PROJECT_DIR$/jm/2.3.10/pom.xml" />
+        <option value="$PROJECT_DIR$/jm/2.4.13/pom.xml" />
+        <option value="$PROJECT_DIR$/jm/2.4.14/pom.xml" />
+        <option value="$PROJECT_DIR$/jm/2.4.15/pom.xml" />
+        <option value="$PROJECT_DIR$/jm/2.4.16/pom.xml" />
+        <option value="$PROJECT_DIR$/jm/2.4.17/pom.xml" />
+        <option value="$PROJECT_DIR$/jm/2.4.18/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="openjdk11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
