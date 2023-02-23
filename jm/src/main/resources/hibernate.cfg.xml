@@ -23,10 +23,9 @@
         <property name="show_sql">true</property> <!-- Show SQL in console -->
         <property name="format_sql">true</property> <!-- Show SQL formatted -->
 
-        <mapping class="criteria.criteriaQueryJoin.client.SaveDataClientTest"/>
-        <mapping class="criteria.criteriaQueryJoin.entity.Employee"/>
-        <mapping class="criteria.criteriaQueryJoin.entity.Department"/>
-        <mapping class="criteria.criteriaQueryJoin.CriteriaQueryJoin"/>
+        <mapping class="criteriaQuery.criteriaQueryJoin.SaveDataClientTest"/>
+        <mapping class="criteriaQuery.entity.Employee"/>
+        <mapping class="criteriaQuery.entity.Department"/>
 
     </session-factory>
 </hibernate-configuration>

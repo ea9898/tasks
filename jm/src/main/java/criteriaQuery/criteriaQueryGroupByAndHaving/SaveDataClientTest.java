@@ -1,7 +1,7 @@
-package criteria.criteriaQueryJoin.client;
+package criteriaQuery.criteriaQueryGroupByAndHaving;
 
-import criteria.criteriaQueryJoin.entity.Department;
-import criteria.criteriaQueryJoin.entity.Employee;
+import criteriaQuery.entity.Department;
+import criteriaQuery.entity.Employee;
 import org.hibernate.Session;
 import util.HibernateUtil;
 

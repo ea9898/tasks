@@ -1,7 +1,7 @@
-package criteria.criteriaQueryJoin.client;
+package criteriaQuery.criteriaQueryJoin;
 
-import criteria.criteriaQueryJoin.entity.Department;
-import criteria.criteriaQueryJoin.entity.Employee;
+import criteriaQuery.entity.Department;
+import criteriaQuery.entity.Employee;
 import jakarta.persistence.criteria.CriteriaBuilder;
 import jakarta.persistence.criteria.CriteriaQuery;
 import jakarta.persistence.criteria.Root;
